@@ -1,0 +1,20 @@
+.nav-wrapper{
+	background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active {
+    background-color: #6f4037;
+}
+
+.icon-coffee{
+	color: #6f4037;
+}
+.footer-one{
+	background:  #6f4037;
+}
+.footer-two{
+	background: #462822;
+}
+.fabout {
+
+    padding-right: 150px;
+}
